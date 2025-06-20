@@ -4,15 +4,12 @@
 
 #### Głębokość 2:
 - Redukcja węzłów: 85.5% - 93.4%
-- Przyspieszenie: 4.8x - 17.1x
 
 #### Głębokość 3:
 - Redukcja węzłów: 97.3% - 97.5%
-- Przyspieszenie: 31.8x - 41.6x
 
 #### Głębokość 4:
 - Redukcja węzłów: 99.1% - 99.8%
-- Przyspieszenie: 91.2x - 569.7x
 
 ### 2.2 Obserwacje dotyczące efektywności
 - Efektywność alpha-beta rośnie wykładniczo z głębokością przeszukiwania
